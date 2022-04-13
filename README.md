@@ -8,6 +8,3 @@ And a bit more once I have edited
 
 I think you need to save too
 
-## Local development
-
-1. Open this part in your browser. This is being done as a branch
